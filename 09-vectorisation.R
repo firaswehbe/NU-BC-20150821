@@ -9,3 +9,5 @@ m * c(1, 0, -1, 2)
 library(gapminder)
 gapminder[gapminder$country=='Afghanistan',]
 names(gapminder)
+
+# Weiwei can you please write your code below
