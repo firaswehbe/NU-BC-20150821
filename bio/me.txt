@@ -1,8 +1,0 @@
-Hello my name is Firas
-
-Testing new stuff that needs to be committed.
-
-I write this with no hello.txt
-
-Writing this stuff with a hello.txt present, but we're cool now.
-
