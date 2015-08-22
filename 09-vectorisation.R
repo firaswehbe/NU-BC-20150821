@@ -11,3 +11,4 @@ gapminder[gapminder$country=='Afghanistan',]
 names(gapminder)
 
 # Weiwei can you please write your code below
+m=1
